@@ -1,0 +1,9 @@
+numpy==1.21.0
+torch==2.1.2
+torchvision==0.16.2
+clearml==1.6.0
+tensorboard==2.8.0
+blobfile
+model-util
+spacy==2.3.5  # Using an older version
+-e ./train-platforms
