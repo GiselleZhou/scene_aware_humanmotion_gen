@@ -6,15 +6,15 @@ We introduce a framework that turns a single RGB image + monocular depth into re
 
 
 <p align="center">
-  <img src="assets/gif1.gif" width="25%" />
+  <img src="assets/gif1.gif" width="35%" />
   &nbsp;  <!-- margin-right -->
-  <img src="assets/gif2.gif" width="25%" />
+  <img src="assets/gif2.gif" width="35%" />
 </p>
 
 <p align="center">
-  <img src="assets/gif3.gif" width="25%" />
+  <img src="assets/gif3.gif" width="35%" />
   &nbsp;
-  <img src="assets/gif4.gif" width="25%" />
+  <img src="assets/gif4.gif" width="35%" />
 </p>
 
 
